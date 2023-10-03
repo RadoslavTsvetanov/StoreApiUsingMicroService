@@ -64,3 +64,16 @@ C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\obj\De
 C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.pdb
 C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\obj\Debug\net7.0\ref\Play.Catalog.Service.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Hrisi\Desktop\StoreApiUsingMicroService\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
